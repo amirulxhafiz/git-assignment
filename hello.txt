@@ -1,2 +1,2 @@
-Hello, Git world!
+hello, Git world!
 in branch2
